@@ -1,0 +1,6 @@
+{
+  "name": "FlameGrill - The BK Experience",
+  "description": "A high-converting, mobile-first website for Burger King optimized for craving-worthy visuals and seamless ordering.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
